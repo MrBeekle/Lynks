@@ -1,0 +1,49 @@
+li {
+  font-weight: bold;
+  font-family: 'Shift', sans-serif;
+  font-size: 15px;
+}
+.jumbotron {
+  background-color: transparent;
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+}
+.jumbotron h1 {
+  color: #404040;
+  font-size: 50px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  padding-right: 80%;
+}
+.caption p {
+  font-size: 12px;  
+}
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+#wrapper {
+min-height:100%;
+position:relative;
+}
+.navbar2 {
+background-color:#F0FFF0;
+}
+.logo {
+color:  #40E0D0;
+font-size: 38px;
+}
+.navbar-text{
+font-size: 12px;
+}
+#home {
+    background-image: url('https://imageshack.com/i/idvSgLc0j');
+    background-repeat: no-repeat;
+    background-attachment: top;
+    background-position: center; 
+	margin-top: -1cm;
+
+}
